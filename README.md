@@ -1,4 +1,4 @@
-# Hi There idk you but HELLOOOO 😅
+# Hello, World 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=braderangelo&show_icons=true&theme=transparent" />
 
