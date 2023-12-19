@@ -1,4 +1,4 @@
-# Hello, World 
+# Wassup Hampaslupa
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shalokoloko32&show_icons=true&theme=transparent" />
 
