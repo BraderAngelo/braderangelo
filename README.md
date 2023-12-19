@@ -1,8 +1,8 @@
 # Hello, World 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=braderangelo&show_icons=true&theme=transparent" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shalokoloko32&show_icons=true&theme=transparent" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braderangelo&layout=pie" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalokoloko32&layout=pie" />
 <img alt="Codecademy" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A"/>
 <img alt="Edge" src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)"/>
 <img alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
