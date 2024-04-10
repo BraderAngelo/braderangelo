@@ -1,10 +1,10 @@
 # halo
-![shalokoloko32's GitHub stats](https://github-readme-stats-n8ventures.vercel.app/api?username=shalokoloko32&show_icons=true&rank_icon=github)
-![Top Langs](https://github-readme-stats-n8ventures.vercel.app/api/top-langs/?username=shalokoloko32&layout=compact)
+![shalokoloko32's GitHub stats](https://github-readme-stats-n8ventures.vercel.app/api?username=apolcider&show_icons=true&rank_icon=github)
+![Top Langs](https://github-readme-stats-n8ventures.vercel.app/api/top-langs/?username=apolcider&layout=compact)
 
 
 <!--
-**shalokoloko32/shalokoloko32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**apolcider/apolcider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
