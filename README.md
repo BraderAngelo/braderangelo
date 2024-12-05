@@ -1,6 +1,6 @@
 # halo
-![kasperik00's GitHub stats](https://github-readme-stats-kasperik00.vercel.app/api?username=kasperik00&show_icons=true&rank_icon=github)
-![Top Langs](https://github-readme-stats-kasperik00.vercel.app/api/top-langs/?username=kasperik00&layout=compact)
+![kasperik00's GitHub stats](https://github-readme-stats-n8ventures.vercel.app/api?username=kasperik00&show_icons=true&rank_icon=github)
+![Top Langs](https://github-readme-stats-n8ventures.vercel.app/api/top-langs/?username=kasperik00&layout=compact)
 
 
 <!--
